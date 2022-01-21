@@ -1,0 +1,74 @@
+.font-face{
+	font-family: main;
+	src: url(YakumoPreschoolHand.ttf);
+}
+.text{
+    font-family: main;
+}
+.hi{
+	height: 1000px;
+}
+.mgh{
+	margin-top: 10px;
+}
+.wi{
+	width: 50px;
+	height: 50px;
+}
+.borgi{
+	width: 1000px;
+	height: 35px;
+	margin-left: 20px;
+}
+.txt{
+	font-family: aria;
+}
+.collormain{
+	background: #1f1d1d;
+}
+.collorlogo{
+	background: #2b2a2a;
+}
+.collorh{
+	background: #3b3939;
+}
+.marg{
+	padding-top: 15px
+}
+.higi{
+	height: 120px;
+}
+.mmmg{
+	margin-left: 5px;
+}
+.minitx{
+    font-size: 13px;
+}
+.minitx1{
+    font-size: 14px;
+}
+.mmgg{
+	margin-top: 3px;
+}
+.bgdirk{
+	background: #0a0a0a;
+}
+.higi2{
+	height: 70px;
+}
+.higi3{
+	height: 120px;
+}
+.higi4{
+	height: 500px;
+}
+.boordings{
+	border-radius: 30px;
+}
+.shadow21 {
+    background: #fc0; /* Цвет фона */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+.sin {
+	background: #0C0C24;
+}
